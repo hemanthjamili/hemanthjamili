@@ -12,7 +12,7 @@ Staff Software Engineer · Distributed Systems · Platform Engineering
   <a href="https://hemanthjamili.github.io/profile/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/hemanthjamili/">LinkedIn</a> ·
   <a href="mailto:hemanthjamili@gmail.com">Email</a> ·
-  <a href="tel:+919700186258">Phone</a>
+  📱 +91 9700186258
 </p>
 
 ---
