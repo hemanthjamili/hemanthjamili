@@ -190,4 +190,8 @@ If you're interested in discussing distributed systems, backend architecture, pl
 
 💼 **LinkedIn:** https://www.linkedin.com/in/hemanthjamili/
 
+📧 **Email:** [hemanthjamili@gmail.com](mailto:hemanthjamili@gmail.com)
+
+📱 **Phone:** +91 9700186258
+
 **Open to Staff, Lead & Platform Engineering roles across Backend and Distributed Systems.**
